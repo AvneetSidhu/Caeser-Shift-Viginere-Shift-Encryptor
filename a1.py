@@ -1,6 +1,6 @@
 #Avneet Sidhu
 #Student Number: 
-#CPS109 
+#CPS109 Assignment
 
 # Problem: I wanted to make a program that encrypts given text, so I can encrypt my passwords and messages.  
 
